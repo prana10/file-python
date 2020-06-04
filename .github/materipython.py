@@ -18,7 +18,7 @@ a. learn basic python   :
 
     3. function     (selesai)
 
-    4. perulangan (for loop/while) 
+    4. perulangan (for loop/while) (selesai)
 
     5. percabangan(if/else/elif)  (selesai)
 b. learn advance python :
