@@ -21,20 +21,24 @@ a. learn basic python   :
     4. perulangan (for loop/while) (selesai)
 
     5. percabangan(if/else/elif)  (selesai)
+    
+    6. lambda function
 b. learn advance python :
     1. list     (selesai)
 
     2. tuple
 
     3. dictionary
+   
+    4. set
 
-    4. string
-
-    5. class
-
-    6. modul (time and math)
+    5. string
     
-    7. fungsi file and folder
+    6. module dan package
+
+    7. class dan method
+    
+    8. fungsi file and folder
 
 '''
 
